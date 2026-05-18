@@ -1,2 +1,0 @@
-# aladala-system
-استضافة بوت
